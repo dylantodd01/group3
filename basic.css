@@ -5,3 +5,9 @@ body {
 	border: 10px solid blue;
 }
 
+h1 {
+	background-color:lightgreen;
+	font-family: Consolas;
+	padding: 12px;
+	border: 10px solid blue;
+}
